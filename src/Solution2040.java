@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Solution2040 {
 
     public static void main(String[] args) {
         Solution s = new Solution();

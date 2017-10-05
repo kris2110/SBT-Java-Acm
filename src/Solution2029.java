@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Solution {
+public class Solution2029 {
 
     public static void main(String[] args) {
         Solution avg = new Solution();

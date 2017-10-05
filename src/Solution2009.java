@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Solution {
+public class Solution2009 {
 
     public static void main(String[] args) {
         Solution pow = new Solution();
